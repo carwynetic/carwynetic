@@ -64,7 +64,6 @@
 
 ---
 
-<!-- GitHub Stats Section -->
 ---
 
 <!-- GitHub Stats Section -->
@@ -77,13 +76,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carwynetic&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carwynetic&theme=tokyonight" alt="GitHub Streak" style="width: 100%; max-width: 600px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carwynetic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 100%; max-width: 500px;" />
 </p>
