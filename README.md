@@ -65,11 +65,20 @@
 ---
 
 <!-- GitHub Stats Section -->
+---
+
+<!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carwynetic&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carwynetic&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carwynetic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carwynetic&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carwynetic&theme=tokyonight" alt="GitHub Streak" style="width: 100%; max-width: 600px;" />
