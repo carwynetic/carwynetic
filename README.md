@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" /> Currently working as a Research Assistant at <b>AI-Cybersecurity Lab (AIC-Lab)</b>.<br>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" /> Deeply focused on <b>Computer Vision, Multimodal Learning</b>, and assistive AI solutions.<br>
   <br>
-  📫 Reach me at: <b>baote332@gmail.com</b>
+  📫 Reach me at: <b>carwynetic@gmail.com</b>
 </p>
 
 ---
