@@ -12,7 +12,7 @@
   AI Student Researcher at FPT University
   <br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
-  <em>"Driven by relentless effort, bridging academic research with Deep Tech innovation."</em>
+  <em>"Driven by relentless effort, bridging academic research with innovation."</em>
 </h3>
 
 ---
