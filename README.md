@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/carwynetic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+B%E1%BA%A3o+Ph%C3%BAc+(Carwyn);AI+Student+%40+FPT+University HCM;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Exploring+%26+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+B%E1%BA%A3o+Ph%C3%BAc+(Carwyn);AI+Student+%40+FPT+University;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Exploring+%26+Architectures" alt="Typing SVG" />
   </a>
 
   <p>
