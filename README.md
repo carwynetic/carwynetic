@@ -6,7 +6,7 @@
   </a>
 
   <p>
-    <a href="https://facebook.com/phvc.0510"><img src="https://img.shields.io/badge/Facebook-phvc.0510-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.facebook.com/carwynetic/"><img src="https://img.shields.io/badge/Facebook-phvc.0510-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="mailto:baote332@gmail.com"><img src="https://img.shields.io/badge/Email-baote332%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://github.com/carwynetic"><img src="https://img.shields.io/badge/Lab-AIC--Lab--FUHCM-0052CC?style=for-the-badge&logo=probot&logoColor=white" alt="Lab" /></a>
   </p>
